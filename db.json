@@ -1,0 +1,14 @@
+{
+  "tokens": [
+    { "id": 13123, "impressum": "Hier kommt das Impressum", "datenschutz": "Hier kommt die Datenschutzerklärung (Token 13123)" },
+    { "id": 24241, "impressum": "Hier kommt das Impressum", "datenschutz": "Hier kommt die Datenschutzerklärung (Token 24241)"  },
+    { "id": 3534, "impressum": "Hier kommt das Impressum", "datenschutz": "Hier kommt die Datenschutzerklärung (Token 3535)"  }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
